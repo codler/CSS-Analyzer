@@ -1,0 +1,1 @@
+java -jar yuicompressor-2.4.2.jar "../css-analyzer.js" -o "../css-analyzer.min.js" --charset utf-8
